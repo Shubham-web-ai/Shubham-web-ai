@@ -1,4 +1,18 @@
 ## Hi there 👋
+# Hi 👋, I'm Shubham
+
+🎓 BSc Computer Science Student  
+💻 Aspiring Data Scientist  
+🚀 Currently learning AI & Web Development  
+
+## 🛠 Tech Stack
+- Java
+- Python
+- HTML, CSS, JS
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/shubham-gupta-661124375/
+- GitHub: your-link
 
 <!--
 **Shubham-web-ai/Shubham-web-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
