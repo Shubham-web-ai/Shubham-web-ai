@@ -6,9 +6,12 @@
 🚀 Currently learning AI & Web Development  
 
 ## 🛠 Tech Stack
-- Java
+- Java,c++
 - Python
 - HTML, CSS, JS
+- MySQL
+- Numpy
+- Pandas
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/shubham-gupta-661124375/
